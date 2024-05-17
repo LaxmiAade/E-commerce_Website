@@ -1,11 +1,5 @@
 
-
-.App{
-    width: 100%;
-    overflow:hidden;
-}
-
-.Footer{
+/*.Footer{
     height: 400px;
     width: 100%;
     background-color: black;
